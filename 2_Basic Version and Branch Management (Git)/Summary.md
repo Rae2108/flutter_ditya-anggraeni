@@ -16,4 +16,4 @@ Instalasi github sangatlah penting untuk sebuah project yang akan kita lakukan b
 Commit message sangat penting sekali penamaannya agar tidak membingungkan juga saat nanti kita akan melakukan sebuah commit project. Dengan adanya commit message ini setiap dari kita akan lebih mudah jika nantinya ada kodingan yang error atau bermasalah. 
 
 
-
+## Noted : Untuk File Praktikum dan Screnshoot ada di folder Basic Version and Branch Management (Git)
