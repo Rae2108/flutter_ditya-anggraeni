@@ -14,7 +14,3 @@ Yang dimaksud terdistribusi disini adalah dimana pada penggunaan githab kita dap
 Instalasi github sangatlah penting untuk sebuah project yang akan kita lakukan bersama - sama. Maka dari itu langkah - langkah yang di berikan pada vidio sangat bermanfaat.
 3. Commit Message
 Commit message sangat penting sekali penamaannya agar tidak membingungkan juga saat nanti kita akan melakukan sebuah commit project. Dengan adanya commit message ini setiap dari kita akan lebih mudah jika nantinya ada kodingan yang error atau bermasalah. 
-
-
-## Noted : Untuk File Praktikum dan Screnshoot ada di folder Basic Version and Branch Management (Git)
-untuk link nya : https://github.com/Rae2108/flutter_ditya-anggraeni/tree/main/Basic%20Version%20and%20Branch%20Management%20(Git)
