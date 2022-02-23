@@ -17,3 +17,4 @@ Commit message sangat penting sekali penamaannya agar tidak membingungkan juga s
 
 
 ## Noted : Untuk File Praktikum dan Screnshoot ada di folder Basic Version and Branch Management (Git)
+untuk link nya : https://github.com/Rae2108/flutter_ditya-anggraeni/tree/main/Basic%20Version%20and%20Branch%20Management%20(Git)
