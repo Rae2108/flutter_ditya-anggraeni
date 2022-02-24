@@ -1,4 +1,4 @@
-void main(List<String> arguments) {
+void main() {
   String nama = 'Ditya Anggraeni';
   String kelas = 'Flutter Kelompok C';
   String jk = 'P';

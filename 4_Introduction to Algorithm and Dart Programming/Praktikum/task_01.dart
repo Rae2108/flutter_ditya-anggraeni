@@ -1,5 +1,5 @@
-void main(List<String> arguments) {
-  print('Membuat rumus lingkaran');
+void main() {
+  // Rumus Luas Lingkaran
   final phie = 3.14;
   int er = 11;
   double luaslingkaran = phie*(er*er);
