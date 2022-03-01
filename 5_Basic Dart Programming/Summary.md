@@ -16,6 +16,12 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 3.Fungsi data Future merupakan tipe data yang dapat di tunggu atau di beri waktu, dan jika ingin mengembalikan data return kita dapat membawanya dari fungsi async  
 
+4. pada proses pengambian keputusan terdapat percabangan yang bisa menggunakan perintah If, If-else, dan else if.
+
+5. ada juga perintah perulangan yang bisa menggunakan perintah for, while, do-while, dan cara untuk menghentikan perulangan bisa menggunakan perintah break dan continue
+
+6. pada materi ini juga terdapat cara bagaimana membuat dan memanggil fungsi.
+
 ============================================================================================
 
 ## TASK 
