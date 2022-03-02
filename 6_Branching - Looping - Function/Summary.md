@@ -20,15 +20,27 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ## TASK 
 
-pada pertemuan di section 6 kali ini adalah memabahas mengenai braching, looping, dan function. kali ini diberikan 2 soal. pada soal nomor 1
+pada pertemuan di section 6 kali ini adalah memabahas mengenai braching, looping, dan function. kali ini diberikan 2 soal. pada soal nomor 1 dimana saya disini sudah menentukan nilai yaitu 65 dengan kondisi jika nilai di atas 70 maka akan mendapat nilai A, jika di atas 40 akan mendapat nilai B dan jika nilai 0 maka akan mendapat nilai C. 
 
 [task_01.png](./screenshot/task_01.png) 
 
 ![task_01.png](./screenshot/task_01.png) 
 
+karena disini saya menginputkan nilai 65 maka hasil yang keluar adalah nilai B. 
+
 ![outputtask_01.png](./screenshot/outputtask_01.png) 
 
-1. pada pertemuan kali ini adalah membahas tentang bagaimana cara menggunakan dart, dengan adanya task cara membuat luas lingkaran dengan program dart maka dapat menggunakan program seperti di bawah ini :  
+[task_02.png](./screenshot/task_02.png) 
+
+![task_02.png](./screenshot/task_02.png) 
+
+karena disini saya menginputkan nilai 65 maka hasil yang keluar adalah nilai B. 
+
+![outputtask_02.png](./screenshot/outputtask_02.png) 
+
+
+Soal Latihan 
+1. 
 [soal1.png](./screenshot/soal1.png) 
 
 ![soal1.png](./screenshot/soal1.png) 
