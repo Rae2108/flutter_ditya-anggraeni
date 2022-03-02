@@ -26,7 +26,7 @@ pada pertemuan di section 6 kali ini adalah memabahas mengenai braching, looping
 
 ![task_01.png](./screenshot/task_01.png) 
 
-![outputtask_01.png](./screenshot/outputtask6.png) 
+![outputtask_01.png](./screenshot/outputtask_01.png) 
 
 1. pada pertemuan kali ini adalah membahas tentang bagaimana cara menggunakan dart, dengan adanya task cara membuat luas lingkaran dengan program dart maka dapat menggunakan program seperti di bawah ini :  
 [soal1.png](./screenshot/soal1.png) 
