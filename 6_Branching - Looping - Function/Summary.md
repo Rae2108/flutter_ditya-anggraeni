@@ -21,15 +21,15 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 ## TASK 
 
 1. pada pertemuan kali ini adalah membahas tentang bagaimana cara menggunakan dart, dengan adanya task cara membuat luas lingkaran dengan program dart maka dapat menggunakan program seperti di bawah ini :  
-[soal1.png](./screenshoot/soal1.png) 
+[soal1.png](./screenshot/soal1.png) 
 
-![soal1.png](./screenshoot/soal1.png) 
+![soal1.png](./screenshot/soal1.png) 
 
 pada program di atas dimana terdapat nilai final (tidak dapat di ubah) phi dengan nilai 3,14 yang bernilai integer dengan r nya adalah 11. untuk luas lingkarannya sendiri menggunakan tipe data double yang dimana rumusnya adalah phie*(er*er) lalu print hasil dari luas lingkaran tersebut. maka akan di peroleh output seperti di bawah ini. 
 
 output:
 
-![output1.png](./screenshoot/output1.png) 
+![output1.png](./screenshot/output1.png) 
 
 2. pada program nomor 2 ini adalah membuat 3 string lalu di sambungkan ketiganya, disini saya membuat string dengan variabel nama, kelas, jk. 
 
