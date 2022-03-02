@@ -33,32 +33,32 @@ output:
 
 2. pada program nomor 2 ini adalah membuat 3 string lalu di sambungkan ketiganya, disini saya membuat string dengan variabel nama, kelas, jk. 
 
-[soal2.png](./screenshoot/soal2.png) 
+[soal2.png](./screenshot/soal2.png) 
 
-![soal2.png](./screenshoot/soal2.png)
+![soal2.png](./screenshot/soal2.png)
 
 untuk nama sendiri saya isi dengan 'Ditya Anggraeni', kelas ' Flutter Kelompok C' dan jk 'P' yang nantinya akan di print dan menghasilkan output seperti di bawah ini.   
 output:
 
-![output2.png](./screenshoot/output2.png)
+![output2.png](./screenshot/output2.png)
 
 3. 
-[soal3.png](./screenshoot/soal3.png) 
+[soal3.png](./screenshot/soal3.png) 
 
-![soal3.png](./screenshoot/soal3.png)
+![soal3.png](./screenshot/soal3.png)
 
-![output3.png](./screenshoot/output3.png)
+![output3.png](./screenshot/output3.png)
 
 4. 
-[soal4.png](./screenshoot/soal4.png) 
+[soal4.png](./screenshot/soal4.png) 
 
-![soal4.png](./screenshoot/soal4.png)
+![soal4.png](./screenshot/soal4.png)
 
-![output4.png](./screenshoot/output4.png)
+![output4.png](./screenshot/output4.png)
 
 5. 
-[soal5.png](./screenshoot/soal5.png) 
+[soal5.png](./screenshot/soal5.png) 
 
-![soal5.png](./screenshoot/soal5.png)
+![soal5.png](./screenshot/soal5.png)
 
-![output5.png](./screenshoot/output5.png)
+![output5.png](./screenshot/output5.png)
