@@ -30,8 +30,13 @@ karena disini saya menginputkan nilai 65 maka hasil yang keluar adalah nilai B.
 
 ![outputtask_01.png](./screenshot/outputtask_01.png) 
 
+
+pada soal nomor 2 adalah terdapat soal untuk menentukan nilai faktorial yang dimana sudah di tentukan yaitu nilai faktorial 10, 20, dan 30. 
 [task_02.png](./screenshot/task_02.png) 
 
+disini saya memakai fungsi dengan variabel a yang memakai tipe data double. dan untuk i = 1; merupakan nilai awal i <= a jika fungsi a lebih besar sama dengan a maka nilai akan bertambah . 
+
+berikut adalah output dari fungsi tersebut.
 ![task_02.png](./screenshot/task_02.png) 
 
 karena disini saya menginputkan nilai 65 maka hasil yang keluar adalah nilai B. 
