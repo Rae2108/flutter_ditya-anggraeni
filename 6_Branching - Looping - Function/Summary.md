@@ -43,47 +43,50 @@ berikut adalah output dari fungsi tersebut.
 
 ![outputtask_02.png](./screenshot/outputtask_02.png) 
 
-############################################
-Soal Latihan 
-1. 
-[soal1.png](./screenshot/soal1.png) 
+######################################################
+
+## Soal Latihan 
+
+1.  [soal1.png](./screenshot/soal1.png) 
 
 ![soal1.png](./screenshot/soal1.png) 
 
-pada program di atas dimana terdapat nilai final (tidak dapat di ubah) phi dengan nilai 3,14 yang bernilai integer dengan r nya adalah 11. untuk luas lingkarannya sendiri menggunakan tipe data double yang dimana rumusnya adalah phie*(er*er) lalu print hasil dari luas lingkaran tersebut. maka akan di peroleh output seperti di bawah ini. 
+ pada program diatas terdapat percabangan if yang dimana jika total lebih besar dari 100000 maka akan mendapatkan diskon 10%. yang dimana total = total - (total * 0.1);
 
 output:
 
 ![output1.png](./screenshot/output1.png) 
 
-2. pada program nomor 2 ini adalah membuat 3 string lalu di sambungkan ketiganya, disini saya membuat string dengan variabel nama, kelas, jk. 
-
-[soal2.png](./screenshot/soal2.png) 
+2.   [soal2.png](./screenshot/soal2.png) 
 
 ![soal2.png](./screenshot/soal2.png)
 
-untuk nama sendiri saya isi dengan 'Ditya Anggraeni', kelas ' Flutter Kelompok C' dan jk 'P' yang nantinya akan di print dan menghasilkan output seperti di bawah ini.   
-output:
+pada program di atas terdapat if jika nilai lebih besar dari 70 maka akan memberikan keterangan berhasil, jika nila 70 maka akan memberikan keterangan gagal dan jika di bawah 70 juga akan memberikan keterangan gagal. 
+
+berikut adalah outputnya : 
 
 ![output2.png](./screenshot/output2.png)
 
-3. 
-[soal3.png](./screenshot/soal3.png) 
+3.  [soal3.png](./screenshot/soal3.png) 
 
 ![soal3.png](./screenshot/soal3.png)
 
+pada kodingan diatas diminta jika nilai lebih besar dari 85 maka akan mendapatkan grade A jika kurang dari 85 maka akan mendapatkan grade B dan jika kurang dari 75 maka akan mendapatkan grade C dan jika kurang dari 60 maka akan mendapatkan grade D jika kurang dari 45 maka akan mendapatkan grade E. 
+
 ![output3.png](./screenshot/output3.png)
 
-4. 
-[soal4.png](./screenshot/soal4.png) 
+4.  [soal4.png](./screenshot/soal4.png) 
 
 ![soal4.png](./screenshot/soal4.png)
 
+pada kodingan di atas menjelaskan alur apakah kamu memiliki member? jika iya apakah belanja lebih dari 500000 jika iya maka akan mendapatkan diskom 15% jika tidak dan belanjanya lebih dari 100000 maka akan mendapatkan diskon 10% dan jika kurang dari 100000 maka tidak mendapatan diskon. jika tidak memiliki member dan belanja lebih dari 100000 maka akan mendapatkan diskon 5%. 
+
 ![output4.png](./screenshot/output4.png)
 
-5. 
-[soal5.png](./screenshot/soal5.png) 
+5.  [soal5.png](./screenshot/soal5.png) 
 
 ![soal5.png](./screenshot/soal5.png)
+
+pada kodingan di atas adalah membuat program dengan percabangan Switch case, yang dimana disini menggunakan nama hari yang jika di input nilai 1 maka akan memunculkan hari senin, angka 2 hari selasa dan seterusnya. jika diinputkan angka lebih dari 7 maka akan masuk ke else yang dimana angka tersebut tidak di temukan. 
 
 ![output5.png](./screenshot/output5.png)
