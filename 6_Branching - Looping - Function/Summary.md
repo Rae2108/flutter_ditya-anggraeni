@@ -43,9 +43,9 @@ berikut adalah output dari fungsi tersebut.
 
 ![outputtask_02.png](./screenshot/outputtask_02.png) 
 
-######################################################
+############################################################################################################
 
-## Soal Latihan 
+## Soal Latihan (Percabangan)
 
 1.  [soal1.png](./screenshot/soal1.png) 
 
@@ -90,3 +90,9 @@ pada kodingan di atas menjelaskan alur apakah kamu memiliki member? jika iya apa
 pada kodingan di atas adalah membuat program dengan percabangan Switch case, yang dimana disini menggunakan nama hari yang jika di input nilai 1 maka akan memunculkan hari senin, angka 2 hari selasa dan seterusnya. jika diinputkan angka lebih dari 7 maka akan masuk ke else yang dimana angka tersebut tidak di temukan. 
 
 ![output5.png](./screenshot/output5.png)
+
+############################################################################################################
+
+## Soal Latihan (Peruangan)
+
+## Soal Latihan (Fungsi)
