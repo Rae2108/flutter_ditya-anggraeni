@@ -43,7 +43,8 @@ berikut adalah output dari fungsi tersebut.
 
 ![outputtask_02.png](./screenshot/outputtask_02.png) 
 
-############################################################################################################
+###########################################################################################################
+
 
 ## Soal Latihan (Percabangan)
 
@@ -91,8 +92,50 @@ pada kodingan di atas adalah membuat program dengan percabangan Switch case, yan
 
 ![output5.png](./screenshot/output5.png)
 
-############################################################################################################
+###########################################################################################################
 
-## Soal Latihan (Peruangan)
+## Soal Latihan (Perulangan)
+
+1. [soal1_ulang.PNG](./screenshot/soal1_ulang.PNG) 
+
+![soal1_ulang.PNG](./screenshot/soal1_ulang.PNG)
+
+Output :
+
+![output1_ulang.PNG](./screenshot/output1_ulang.PNG)
+
+2. [soal2_ulang.PNG](./screenshot/soal2_ulang.PNG) 
+
+![soal2_ulang.PNG](./screenshot/soal2_ulang.PNG)
+
+Output :
+
+![output2_ulang.PNG](./screenshot/output2_ulang.PNG)
+
+3. [soal3_ulang.PNG](./screenshot/soal3_ulang.PNG) 
+
+![soal3_ulang.PNG](./screenshot/soal3_ulang.PNG)
+
+Output :
+
+![output3_ulang.PNG](./screenshot/output3_ulang.PNG)
+
+4. [soal4_ulang.PNG](./screenshot/soal4_ulang.PNG) 
+
+![soal4_ulang.PNG](./screenshot/soal4_ulang.PNG)
+
+Output :
+
+![output4_ulang.PNG](./screenshot/output4_ulang.PNG)
 
 ## Soal Latihan (Fungsi)
+
+1.  
+![soal5_fungsi1.PNG](./screenshot/soal5_fungsi1.PNG)
+![soal5_fungsi2.PNG](./screenshot/soal5_fungsi2.PNG)
+![soal5_fungsi3.PNG](./screenshot/soal5_fungsi3.PNG)
+
+Output :
+
+![output5_fungsi1.PNG](./screenshot/output5_fungsi1.PNG)
+![output5_fungsi2.PNG](./screenshot/output5_fungsi2.PNG)
