@@ -10,20 +10,30 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ### Jawab : 
 
+1. Anonymous Function dapat di deklarasikan ketika tidak memiliki nama, function ini juga dapat digunakan untuk parameternya.
 
+2. Async-Await dapat di jalankan secara asyncronus tanpa menunggu proses lainnya selesai. proses dengan Await akan menunggu hingga proses async nya selesai. 
+
+3. Collection merupakan kumpulan data pada suatu tempat. contohnya seperti list dan Map. 
 
 ============================================================================================
 
 ## TASK 
 
  
-[prog_01.PNG](./Screenshoot/prog_01.PNG) 
+1. [task01.PNG](./Screenshots/task01.PNG) 
 
-![prog_01](./Screenshoot/prog_01.PNG)
-
-
+![task01.PNG](./Screenshots/task01.PNG)
 
 output:
 
-![task_01](./Screenshoot/task_01.PNG)
+![output01.PNG](./Screenshots/output01.PNG)
 
+
+2. [task02.PNG](./Screenshots/task02.PNG) 
+
+![task02.PNG](./Screenshots/task02.PNG)
+
+output:
+
+![output02.PNG](./Screenshots/output02.PNG)
