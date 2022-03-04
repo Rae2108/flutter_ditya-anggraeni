@@ -33,6 +33,7 @@ output:
 2. [task02.PNG](./Screenshots/task02.PNG) 
 
 ![task02.PNG](./Screenshots/task02.PNG)
+pada program di atas adalah kita membuat fungsi list dengan asyn. yang dimana kita di minta untuk membuat map dengan menggunakan list yang sudah di deskripsikan. terdapat list 1 list 2 dan list 3 yang dimana list 3 bisa di lihat isinya dari list 1 dan 2. kemudian menentukan map nya lalu pada for pertama digunakan untuk looping list c yang mengambil nilainya dari list a dan b. kemudian for kedua adalah loop list a dan b yang isi listnya dari list c. 
 
 output:
 
