@@ -25,6 +25,8 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![task01.PNG](./Screenshots/task01.PNG)
 
+Deklarasiin terlebih dahulu listbaru dan listlama, list baru berisikan a yang dimana a didapat dari parameter fungsi duaparam. Untuk mengalikan list, saya ambil satu persatu isi dari list tersebut menggunakan for kemudian saya kalikan dengan yang sudah ditentukan setelah dikalikan maka setiap isi dari list tersebut dikembalikan ke index lama
+
 output:
 
 ![output01.PNG](./Screenshots/output01.PNG)
