@@ -18,7 +18,7 @@ output:
 
 [problem32.PNG](./Screeenshots/problem32.PNG) 
 
-![problem31.PNG](./Screeenshots/problem31PNG) 
+![problem31.PNG](./Screeenshots/problem31.PNG) 
 
 [problem32.PNG](./Screeenshots/problem32.PNG) 
 
