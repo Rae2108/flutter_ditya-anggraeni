@@ -14,9 +14,11 @@ output:
 
 ![output2.PNG](./Screeenshots/output2.PNG)
 
-3. [problem3.PNG](./Screeenshots/problem3.PNG) 
+3. [problem3.PNG](./Screeenshots/problem3.1.PNG) 
+[problem3.PNG](./Screeenshots/problem3.2.PNG) 
+![problem3.PNG](./Screeenshots/problem3.1PNG) 
 
-![problem3.PNG](./Screeenshots/problem3.PNG) 
+[problem3.PNG](./Screeenshots/problem3.2.PNG) 
 
 output:
 
