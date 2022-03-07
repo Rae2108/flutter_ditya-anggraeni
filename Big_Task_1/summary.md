@@ -12,12 +12,20 @@ output:
 
 output:
 
-![output2.PNG](./Screenshots/output2.PNG)
+![output2.PNG](./Screeenshots/output2.PNG)
 
-2. [problem2.PNG](./Screenshots/problem2.PNG) 
+3. [problem3.PNG](./Screeenshots/problem3.PNG) 
 
-![problem2.PNG](./Screenshots/problem2.PNG) 
+![problem3.PNG](./Screeenshots/problem3.PNG) 
 
 output:
 
-![output2.PNG](./Screenshots/output2.PNG)
+![output3.PNG](./Screeenshots/output3.PNG)
+
+4. [problem4.PNG](./Screeenshots/problem4.PNG) 
+
+![problem4.PNG](./Screeenshots/problem4.PNG) 
+
+output:
+
+![output4.PNG](./Screeenshots/output4.PNG)
