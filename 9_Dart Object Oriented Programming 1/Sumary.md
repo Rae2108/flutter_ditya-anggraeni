@@ -10,20 +10,29 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ### Jawab : 
 
+1. Object Oriented Programming merupakan paradigma pemrograman yang berkonsep objek yang dapat membuat objek di dunia nyata ke dalam dunia komputer.
+OOP dapat disusun dalam abstraksi objek, data dan proses dapat di letakkan pada OOP nya.
 
+2. Keuntungan OOP :
+    - Dapat di terapkan saat terjadi troubleshoot ketika error 
+    - mudah digunakan ulang
+    - pemrograman OOP dapat di temukan di bahasa pemrograman C++, Java, Javascript, dan python.
+    - OOP memiliki beberapa bagian di antaranya : class, object, property, method, inheritance, dan generics.
+
+3. Class merupakan abstraksi objek dari sebuah benda, memiliki ciri - ciri yang disebut property, memiliki sifat dan kemampuan  yang di sebut method. 
 
 ============================================================================================
 
 ## TASK 
 
  
-[prog_01.PNG](./Screenshoot/prog_01.PNG) 
+[task01.PNG](./Screenshot/task01.PNG) 
 
-![prog_01](./Screenshoot/prog_01.PNG)
+![task01.PNG](./Screenshot/task01.PNG) 
 
 
 
 output:
 
-![task_01](./Screenshoot/task_01.PNG)
+![output01.PNG](./Screenshot/output01.PNG) 
 
