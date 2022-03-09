@@ -11,7 +11,7 @@ class mobil { //class mobil
   var kapasitas = 200; //attribut
   var berat = 0; //attribut
     void tambahMuatan(){ //method tambah muatan
-      var muatan = []; //muatan sekarang
+      var muatan = []; //muatan sekarang (Array)
       var hewantersedia = [a.kucing, a.macan, a.kuda, a.singa]; //muatan tersedia
 
         for(var b in hewantersedia){ //muatantersedia di loop
