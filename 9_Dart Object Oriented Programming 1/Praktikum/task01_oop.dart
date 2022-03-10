@@ -1,33 +1,56 @@
-
-class hewan { //class hewan
-  var macan = 70; //attribut
-  var kucing = 5; //attribut
-  var singa = 80; //attribut
-  var kuda = 75; //attribut
+class Hewan{
+    double berat;
+    Hewan(this.berat);
 }
 
-class mobil { //class mobil
-  var a = hewan(); //attribut
-  var kapasitas = 200; //attribut
-  var berat = 0; //attribut
-    void tambahMuatan(){ //method tambah muatan
-      var muatan = []; //muatan sekarang (Array)
-      var hewantersedia = [a.kucing, a.macan, a.kuda, a.singa]; //muatan tersedia
+class Mobil {
+    List<Hewan> muatan = [];
+    double kapasitas;
+    Mobil(this.kapasitas);
 
-        for(var b in hewantersedia){ //muatantersedia di loop
-          berat = berat + b; //tambahkan berat hewan
-          if(berat > kapasitas){ //bandingkan berat hewan dengan kapasitas
-            berat = berat - b; //jika lebih besar, batalkan memasukan hewan tersebut
-          }else{
-            muatan.add(b); //jika masih muat, maka tambahkan hewan tersebut kedalam muatan sekarang
-          }
-        }
-      print(muatan);
-      print(berat);
+    double newKapasitas(hewanMasuk){
+      kapasitas = kapasitas - hewanMasuk;
+      return kapasitas;
+    }
+
+    bool tambahMuatan(Hewan muatanBaru){
+      if (muatanBaru.berat <= kapasitas){
+        newKapasitas(muatanBaru.berat);
+        muatan.add(muatanBaru);
+        return true;
+      }else{
+        return false;
+      }
+      
+    }
+
+    int getTotalMuatan(){
+      return muatan.length;
+    }
+
+    double sisaKapasitas(){
+      return kapasitas;
     }
 }
 
-void main() {
-  var b = mobil();
-  b.tambahMuatan();
+void main(){
+    var mobil = Mobil(25);
+    var hewan1 = Hewan(10);
+    var hewan2 = Hewan(10);
+    var hewan3 = Hewan(5);
+
+    print('Menambahkan hewan 1 dengan berat : ${hewan1.berat}, ' + mobil.tambahMuatan(hewan1).toString());
+    print('Total muatan sekarang : ${mobil.getTotalMuatan()}');
+    print('Sisa kapasitas mobil : ${mobil.sisaKapasitas()}');
+    print('');
+
+    print('Menambahkan hewan 1 dengan berat : ${hewan2.berat}, ' + mobil.tambahMuatan(hewan2).toString());
+    print('Total muatan sekarang : ${mobil.getTotalMuatan()}');
+    print('Sisa kapasitas mobil : ${mobil.sisaKapasitas()}');
+    print('');
+
+    print('Menambahkan hewan 1 dengan berat : ${hewan3.berat}, ' + mobil.tambahMuatan(hewan3).toString());
+    print('Total muatan sekarang : ${mobil.getTotalMuatan()}');
+    print('Sisa kapasitas mobil : ${mobil.sisaKapasitas()}');
+    print('');
 }

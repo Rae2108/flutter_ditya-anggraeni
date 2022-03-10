@@ -27,22 +27,16 @@ OOP dapat disusun dalam abstraksi objek, data dan proses dapat di letakkan pada 
 
  
 [task01.PNG](./Screenshots/task01.PNG) 
+[task02.PNG](./Screenshots/task02.PNG)
 
 ![task01.PNG](./Screenshots/task01.PNG) 
-
-Untuk praktikum kali ini adalah tentang OOP yang dimana diminta untuk membuat class hewan yang didalamnya terdapat property berat dimana saya menginputkan berat badan untuk hewan macan (70), kucing(5), singa(80), kuda(75). 
-
-Selanjutnya ada class mobil yang di dalamnya menampung kapasitas (200), kemudian ada property muatan yang di isikan dengan Array.
-
-kemudian for digunakan untuk mengecek hewan yang tersedia sesuai urutannya. untuk berat = berat + b yang dimana jika misal var a.kucing kurang dari 200 maka akan menampung lagi var a. macan sampai muatan lebih kecil dari pada berat. 
-kemudian print muatan dan print beratnya. 
-
+![task02.PNG](./Screenshots/task02.PNG)
 
 output:
 
 ![output01.PNG](./Screenshots/output01.PNG) 
 
-[task02.PNG](./Screenshots/task02.PNG) 
-
 ![task02.PNG](./Screenshots/task02.PNG) 
+
+ 
 
