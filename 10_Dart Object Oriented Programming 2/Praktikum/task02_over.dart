@@ -1,30 +1,44 @@
-class matematika{
-  int ? x;
-  int ? y;
-    hasil(){
-      print ('$x $y');
-    }
+class BangunRuang{
+  var panjang;
+  var lebar;
+  var tinggi;
+
+  volume(){
+    return 0;
+  }
+
 }
 
-class kpk extends matematika{
-  @override
-  hasil(){
-    int x = 10;
-    int y = 20;
-    print ('$x $y');
+class Kubus extends BangunRuang{
+  int sisi;
+  Kubus(this.sisi);
+  
+  @override //kelas fungsi yang dari turunan class bangunruang
+  volume(){
+    var rumus = sisi * sisi * sisi;
+    return rumus;
   }
 }
 
-class fpb extends matematika{
+class Balok extends BangunRuang{
+
+  int p;
+  int l;
+  int t;
+  Balok(this.p, this.l, this.t);
+
   @override
-  hasil(){
-    int x = 30;
-    int y = 40;
-    print ('$x $y');
+  volume(){
+    var rumus = p * l * t;
+    return rumus;
   }
 }
 
 void main(){
-  var kpkk = kpk().hasil();
-  var fpbb = fpb().hasil();
+  var k = Kubus(10).volume();
+  var b = Balok(20, 25, 10).volume();
+  var br = BangunRuang();
+  print(k);
+  print(b);
+  print(br);
 }

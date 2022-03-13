@@ -1,30 +1,25 @@
-class bangunruang{
-  var panjang = 10;
-  var lebar = 15;
-  var tinggi = 10;
+class BangunRuang{
+  int panjang = 20;
+  int lebar = 10;
+  int tinggi = 10;
   volume(){
-
+    return panjang * lebar * tinggi;
   }
 }
 
-class kubus extends bangunruang{
-  @override //kelas fungsi yang dari turunan class bangunruang
-  volume(){
-    var sisi = 20;
-    var rumus = sisi * sisi * sisi;
-    print (rumus);
-  }
+class Kubus extends BangunRuang{
+  int sisi;
+  Kubus(this.sisi);
 }
 
-class balok extends bangunruang{
-  @override
-  volume(){
-    var rumus = panjang * lebar * tinggi;
-    print (rumus);
-  }
+class Balok extends BangunRuang{
 }
 
 void main(){
-  var k = kubus().volume();
-  var b = balok().volume();
+  var k = Kubus(10);
+  var b = Balok();
+  var br = BangunRuang().volume();
+  print(k);
+  print(b);
+  print(br);
 }

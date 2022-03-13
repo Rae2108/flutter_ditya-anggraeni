@@ -1,4 +1,4 @@
-#10_Dart Object Oriented Programming 2
+# 10_Dart Object Oriented Programming 2
 
 Nama : Ditya Anggraeni
 
@@ -10,20 +10,63 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ### Jawab : 
 
+1. Construktor digunakan untuk mengkontruksi objek baru, dan merupakan fungsi atau method yang di jalankan pada saat pembuatan objek. konstruktor dapat menerima parameter, tetapi tidak memiliki return, dan namanya sama dengan class.
 
+2. inheritance (Pewarisan) 
+    - suatu program yang membuat class baru dengan class yang sudah ada.
+    - Inheritance di ibaratkan seorang anak yang mewarisi sifat dari induknya.
+
+3. Method Overriding 
+    - merupakan kemampuan untuk menulis ulang method yang ada pada super class
+    - tujuannya agar class anaknya memiliki kelas yang sama untuk proses yang berbeda.
+ 
+    > Cara Melakukan Overriding
+        - dilakukan pada class yang melakukan inheritance
+        - method sudah ada pada class induk
+        - method ditulis ulang seperti membuat method baru pada class anak
+        - ditambahkan tanda @override di baris sebelum method dibuat. 
 
 ============================================================================================
 
 ## TASK 
 
- 
-[prog_01.PNG](./Screenshoot/prog_01.PNG) 
+ task 1 : [task01.PNG](./Screenshot/task01.PNG) 
 
-![prog_01](./Screenshoot/prog_01.PNG)
+![task01.PNG](./Screenshot/task01.PNG)
+
+ Pertama membuat sebuah class BangunRuang dengan property panjang, lebar, dan tinggi. Property tersebut sudah berisi nilai dan method volume untuk mencari volume dari BangunRuang.
+ Selanjutnya ada class Kubus yaitu child atau anak dari class BangunRuang yang memiliki property sisi.
+ Kemudian class Balok yang merupakan child atau anak dari class BangunRuang yang tidak memiliki property sendiri.
+
+ output:
+
+![output_task01.PNG](./Screenshot/output_task01.PNG)
+
+ task 2
+  Pertama membuat sebuah class BangunRuang dengan property panjang, lebar, dan tinggi. Property tersebut sudah berisi nilai dan method volume.
+  Selanjutnya ada class Kubus yaitu child atau anak dari class BangunRuang yang memiliki property sisi dan memiliki method volume yang override dari method BangunRuang yang berfungsi untuk mencari volume dari kubus.
+  Kemudian class Balok yang merupakan child atau anak dari class BangunRuang yang tidak memiliki property sendiri tetapi memiliki method volume yang override dari class parrentnya, isi dari method volume adalah mencari volume dari balok.
+
+  task 3
+  Membuat sebuah class parent Matematika yang hanya memiliki method hasil dengan return 0.
+  Kemudian membuat class KPK dengan extends dari class Matematika yang memiliki property x dan y.
+  Lal membuat class FPb dengan extends dari class Matematika yang memiliki property x dan y.
+
+  task 4
+  Membuat sebuah class parent Matematika yang hanya memiliki method hasil dengan return 0.
+  Kemudian membuat class KPK dengan extends dari class Matematika yang memiliki property x dan y dan method hasil yang ovrride dari class parrentnya yang berisikan program untuk mencari KPK.
+  Lal membuat class FPb dengan extends dari class Matematika yang memiliki property x dan y dan method hasil yang override dari class Matematikan, berisikan program untuk mencari FPB dari 2 bilangan yaitu x dan y.
+
+  latihan 1
+  Membuat class pistol dengan property nama dan jumlahPeluru kemudian membuat method tembak yang mereturn jumlahPeluru-1 jika jumlaPeluru saat ini lebih besar dari 0 tetapi jika tidak maka return 0 (Tidak terjadi apa-apa) dan method reload yang menambahkan peluru saat ini dengan variabel N.
+
+  latihan 2
+  membuat class mobil dengan property merkMobil, tipeMobil, bahanBakar, dan jarakTempuh. dengan method jalan yang menambahkan bahanBakar jika variabel km yang diinput lebih dari 0 jika tidak maka return bahanBakar. Kemudian method isiBahanBakar dengan parameter int n yang mereturn bahanBakar + n artinya menambahkan bahanBakar sekarang dengan yang diinput, lalu method infoBahanBakar yang mereturn bahanBakar sekarang dan infoJarakTempuh yang mereturn jarakTempuh sekarang.
+
+  latihan 3
+  Membuat class Hewan dengan property nama dan jenis.
+  Kemudian membuat class Kucing extends dari class Hewan yang memiliki property sama dengan Hewan dan memiliki method Lari yang berisikan print dari nama, jenis, dan lari.
+  Class unggas 
 
 
-
-output:
-
-![task_01](./Screenshoot/task_01.PNG)
 
