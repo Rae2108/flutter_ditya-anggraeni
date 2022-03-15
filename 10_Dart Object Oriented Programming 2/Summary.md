@@ -106,13 +106,23 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
   latihan 3 : [Latihan_03.PNG](./Screenshot/Latihan_03.PNG) 
 
   ![Latihan_03.PNG](./Screenshot/Latihan_03.PNG)
+
   Membuat class Hewan dengan property nama dan jenis.
   Kemudian membuat class Kucing extends dari class Hewan yang memiliki property sama dengan Hewan dan memiliki method Lari yang berisikan print dari nama, jenis, dan lari.
-  Class unggas 
+  Class unggas extennd dari class Hewan, didalam class Unggas terdapat variabel string keluarga.
+  Class burung extend dari class Unggas yang memiliki method terbang berisikan print dari nama, jenis, keluarga Terbang.
 
   output:
 
   ![output_latihan03.PNG](./Screenshot/output_latihan03.PNG)
 
+  latihan 4 : [Latihan_041.PNG](./Screenshot/Latihan_041.PNG) [Latihan_042.PNG](./Screenshot/Latihan_042.PNG)
 
+  ![Latihan_041.PNG](./Screenshot/Latihan_041.PNG) ![Latihan_042.PNG](./Screenshot/Latihan_042.PNG)
+
+  Latihan 4 terdapat class Task yang memiliki generic T dengan memiliki property a dan b juga terdapat method Generic yang memiliki generic T dengan parameter dari class Task yaitu T a dan T b. Didalam method Generic terdapat variabel c untuk menampung tipe data dari a dan variabel d untuk menampung tipe data dari b dan kemudian ada kondisi dimana jika c dan d itu adalah String maka akan print isi dari a dan bnya, jika c dan d itu int atau double maka akan di print yang lebih besar angkanya antara a atau b lalu jika c dan d nya boolean maka print hasil dari a and b.
+  
+  output:
+
+  ![output_latihan04.PNG](./Screenshot/output_latihan04.PNG)
 
