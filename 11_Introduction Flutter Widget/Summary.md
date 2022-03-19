@@ -51,4 +51,11 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 ## TASK 
 
  
-1. 
+1.  task 1 : [task1.PNG](./Screenshot/task1.PNG) [task1_1.PNG](./Screenshot/task1_1.PNG)
+
+  ![task1.PNG](./Screenshot/task1.PNG)
+  ![task1_1.PNG](./Screenshot/task1_1.PNG)
+
+  output:
+
+  ![output1.PNG](./Screenshot/output1.PNG)
