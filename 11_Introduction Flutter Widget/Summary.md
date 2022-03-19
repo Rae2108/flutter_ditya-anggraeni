@@ -55,7 +55,10 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
   ![task1.PNG](./Screenshot/task1.PNG)
   ![task1_1.PNG](./Screenshot/task1_1.PNG)
-
+  
+  Pada dasarnya strukturnya adalah kita membuat timer yang akan mengambil waktu setiap detik menggunakan DateTime dan memperbaharui pada tampilan aplikasi menggunakan setState. 
+  Dari halaman default, kita buat void untuk mengambil waktu saat ini dengan DateTime dan memperbaharui variable "jam" dengan setState. Jalankan void dengan initstate. 
+  Pada kasus ini kita akan perlu menambahkan dart:async pada halaman kita. Dari sini kita sudah menampilkan waktu dalam format lengkap yaitu tgl dan jam. Selanjutnya kita tinggal ubah saja formatnya menggunakan Dateformat dengan menambahkan package intl. FormatedJam di sini saya tentukan formatnya menjadi Hms yaitu Jam Menit dan Detik saja. jika ingin format yang lain bisa disesuaikan sesuai keinginan.
   output:
 
   ![output1.PNG](./Screenshot/output1.PNG)
