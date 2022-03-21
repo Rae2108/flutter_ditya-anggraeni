@@ -18,6 +18,7 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
     - widget dasar yang mengemas seluruh widget dalam aplikasi.
     - widget digunakan pada sistem IOS.
     - di import dari package: flutter/cupertino.dart
+    
     Cupertino PgeScaffold merupakan dasar untuk membangun sebuah halaman pada cupertinoApp. 
 
 
