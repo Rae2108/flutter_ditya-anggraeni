@@ -9,26 +9,26 @@ class ChartModel {
 
 final List<ChartModel> items = [
   ChartModel(
-      name: 'hilmy',
-      message: 'Hello Hilmy',
+      name: 'Delfa',
+      message: 'Hello Bestie',
       time: '12.00',
       profileUrl:
           'https://asset.kompas.com/crops/IjmmRwybxe-4tZrGRN5eMrq_po8=/0x32:700x382/750x500/data/photo/2020/01/09/5e16811892fc7.jpg'),
   ChartModel(
-      name: 'riska',
-      message: 'hello riska',
+      name: 'Jihand',
+      message: 'hello ji',
       time: '9 march',
       profileUrl:
           'https://img.okezone.com/content/2019/04/30/298/2049787/chef-arnold-berbagi-tips-membuat-makanan-menjadi-lebih-enak-Tz2kVDuNL2.jpg'),
   ChartModel(
-      name: 'vita',
-      message: 'hello vita',
+      name: 'Melin',
+      message: 'hello emel',
       time: '10 march',
       profileUrl:
           'https://asset.kompas.com/crops/ployX7cQOqsYqJS2PYvUGv41CaI=/0x0:1000x667/750x500/data/photo/2017/06/22/163146320170622-042902-8311-chef.juna-.atau-.junior-.rorimpandey-.jpg'),
   ChartModel(
-      name: 'niva',
-      message: 'hello niva',
+      name: 'Erin',
+      message: 'hello ewrin',
       time: '12.21',
       profileUrl:
           'https://img-o.okeinfo.net/content/2020/04/23/298/2203898/memilih-menu-sehat-dan-bergizi-saat-ramadhan-ala-chef-degan-khJm4HN40z.jpg'),
