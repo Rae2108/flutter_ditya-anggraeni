@@ -35,7 +35,7 @@ class _TelegramState extends State<Telegram> {
       }, 
       
       separatorBuilder: (ctx, i){
-        return Divider();
+        return const Divider();
       }, itemCount: items.length),
       floatingActionButton: FloatingActionButton(
         child: const Icon(Icons.create, color: Colors.white),

@@ -63,3 +63,16 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
   output:
 
   ![output1.PNG](./Screenshot/output1.PNG)
+
+2. taks 2 : [task2.PNG](./Screenshot/task2.PNG) [task2_1.PNG](./Screenshot/task2_1.PNG)  [task2_2.PNG](./Screenshot/task2_2.PNG)
+
+  ![task2.PNG](./Screenshot/task2.PNG)
+  ![task2_1.PNG](./Screenshot/task2_1.PNG)
+  ![task2_2.PNG](./Screenshot/task2_2.PNG)
+   
+   Perbedaan no 1 dengan no 2 adalah cara penulisan, kalau nomor 1 penulisan langsung didalam satu file dan tidak perlu import, tetapi no 2 widget jam dipisah berbeda dengan file main nya jadi ada 2 file yaitu file main dan file widget.
+
+
+  output :
+
+  ![output2.PNG](./Screenshot/output2.PNG)
