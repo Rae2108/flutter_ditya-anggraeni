@@ -12,9 +12,9 @@ class ChatModel{
   final List<ChatModel> itemsChat = [
     ChatModel(
       name: "Rae", 
-      message: Emojis.smilingFace, 
+      message: "Heloo gaiss", 
       time: DateFormat().add_jm().format(DateTime.now()), 
-      profile: "https://id-static.z-dn.net/files/d01/1380aea2eac841256e4c94e2a8a6681d.jpg"),ChatModel(
+      profile: "https://f4.bcbits.com/img/a4227575367_10.jpg"),ChatModel(
       name: "Dita", 
       message: Emojis.nerdFace, 
       time: DateFormat().add_jm().format(DateTime.now()),
