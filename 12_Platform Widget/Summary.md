@@ -53,10 +53,10 @@ Telegram : [telegram1.PNG](./Screenshot/telegram1.PNG) [telegram2.PNG](./Screens
 
 # Taks 2 : 
 
-- Buttom : [buttom1.PNG](./Screenshot/buttom1.PNG) [buttom2.PNG](./Screenshot/buttom2.PNG) [buttom3.PNG](./Screenshot/buttom3.PNG)
+- Buttom : [bottom1.PNG](./Screenshot/bottom1.PNG) [bottom2.PNG](./Screenshot/bottom2.PNG) [bottom3.PNG](./Screenshot/bottom3.PNG)
 
-    ![buttom1.PNG](./Screenshot/buttom1.PNG) ![buttom2.PNG](./Screenshot/buttom2.PNG)
-    ![buttom3.PNG](./Screenshot/buttom3.PNG)
+    ![bottom1.PNG](./Screenshot/bottom1.PNG) ![bottom2.PNG](./Screenshot/bottom2.PNG)
+    ![bottom3.PNG](./Screenshot/bottom3.PNG)
 
 - ChatView : [chatview1.PNG](./Screenshot/chatview1.PNG) [chatview2.PNG](./Screenshot/chatview2.PNG)
 
