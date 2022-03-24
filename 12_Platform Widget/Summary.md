@@ -36,11 +36,20 @@ Merubah kode yang sudah ada dengan menghapus semua class yang tidak dibutuhkan l
 - Chartmodel : [chartmodel.PNG](./Screenshot/chartmodel.PNG) 
 ![chartmodel.PNG](./Screenshot/chartmodel.PNG)
 
+Kemudian membuat chartmodel untuk menampung data chat untuk diimplementasikan didalam program.
+
 - Drawwer : [drawer1.PNG](./Screenshot/drawer1.PNG) [drawer2.PNG](./Screenshot/drawer2.PNG) [drawer3.PNG](./Screenshot/drawer3.PNG)
 
-![drawerl.PNG](./Screenshot/drawerl.PNG) ![drawer2.PNG](./Screenshot/drawer2.PNG) ![drawer3.PNG](./Screenshot/drawer3.PNG)
+![drawer1.PNG](./Screenshot/drawer1.PNG) 
+![drawer2.PNG](./Screenshot/drawer2.PNG) 
+![drawer3.PNG](./Screenshot/drawer3.PNG)
+
+Membuat sidebar/drawer yang berisikan newgroup dengan icon group, New Channel Chat dengan icon notifications, contacts dengan icon contacs, Saved Message dengan icon bookmark_border, Calls dengan icon phone. Seluruh menu belum mendapatkan aksi lebih lanjut.
 
 Telegram : [telegram1.PNG](./Screenshot/telegram1.PNG) [telegram2.PNG](./Screenshot/telegram2.PNG)
+![telegram1.PNG](./Screenshot/telegram1.PNG)
+![telegram2.PNG](./Screenshot/telegram2.PNG)
+
 
 # Taks 2 : 
 
