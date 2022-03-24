@@ -37,4 +37,16 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ## TASK 
 
+# Taks 1 : [taks1.PNG](./Screenshot/taks1.PNG) [taks1_1.PNG](./Screenshot/taks1_1.PNG) [taks1_2.PNG](./Screenshot/taks1_2.PNG) 
+
+![taks1.PNG](./Screenshot/taks1.PNG) ![taks1_1.PNG](./Screenshot/taks1_1.PNG) ![taks1_2.PNG](./Screenshot/taks1_2.PNG) 
+
+Output : 
+![output1.PNG](./Screenshot/output1.PNG)
  
+# Taks 2 : [taks2.PNG](./Screenshot/taks2.PNG) [taks2_1.PNG](./Screenshot/taks2_1.PNG) [taks2_2.PNG](./Screenshot/taks2_2.PNG) [taks2_3.PNG](./Screenshot/taks2_3.PNG)
+
+![taks2.PNG](./Screenshot/taks2.PNG) ![taks2_1.PNG](./Screenshot/taks2_1.PNG) ![taks2_2.PNG](./Screenshot/taks2_2.PNG) ![taks2_3.PNG](./Screenshot/taks2_3.PNG)
+
+Output : 
+![output2.PNG](./Screenshot/output2.PNG)
