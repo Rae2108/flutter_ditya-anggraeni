@@ -31,10 +31,12 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 - Main : [maintask1.PNG](./Screenshot/maintask1.PNG) 
 ![maintask1.PNG](./Screenshot/maintask1.PNG) 
 
+Merubah kode yang sudah ada dengan menghapus semua class yang tidak dibutuhkan lagi kemudian meruabah title dan home, homenya adalah class Telegram().
+
 - Chartmodel : [chartmodel.PNG](./Screenshot/chartmodel.PNG) 
 ![chartmodel.PNG](./Screenshot/chartmodel.PNG)
 
-- Drawwer : [drawerl.PNG](./Screenshot/drawerl.PNG) [drawer2.PNG](./Screenshot/drawer2.PNG) [drawer3.PNG](./Screenshot/drawer3.PNG)
+- Drawwer : [drawer1.PNG](./Screenshot/drawer1.PNG) [drawer2.PNG](./Screenshot/drawer2.PNG) [drawer3.PNG](./Screenshot/drawer3.PNG)
 
 ![drawerl.PNG](./Screenshot/drawerl.PNG) ![drawer2.PNG](./Screenshot/drawer2.PNG) ![drawer3.PNG](./Screenshot/drawer3.PNG)
 
