@@ -50,22 +50,32 @@ Telegram : [telegram1.PNG](./Screenshot/telegram1.PNG) [telegram2.PNG](./Screens
 ![telegram1.PNG](./Screenshot/telegram1.PNG)
 ![telegram2.PNG](./Screenshot/telegram2.PNG)
 
+Didalam class Telegram membuat inti bodynya yaitu beberapa chat dari chart model. Jadi semua data yang ada di chartmodel diterapkan di class Telegram
+
 
 # Taks 2 : 
 
-- Buttom : [bottom1.PNG](./Screenshot/bottom1.PNG) [bottom2.PNG](./Screenshot/bottom2.PNG) [bottom3.PNG](./Screenshot/bottom3.PNG)
+- Main : [main1.PNG](./Screenshot/main1.PNG) [main2.PNG](./Screenshot/main2.PNG) [main3.PNG](./Screenshot/main3.PNG)
+
+    ![main1.PNG](./Screenshot/main1.PNG) ![main2.PNG](./Screenshot/main2.PNG) ![main3.PNG](./Screenshot/main3.PNG)
+
+Didalam class Home2 berperan sebagai main yang berisikan inti body dari program menggunakan Cuppertino. Berisikan CuppertinoSliding, CuppertinoSearchTextField.
+
+- Bottom : [bottom1.PNG](./Screenshot/bottom1.PNG) [bottom2.PNG](./Screenshot/bottom2.PNG) [bottom3.PNG](./Screenshot/bottom3.PNG)
 
     ![bottom1.PNG](./Screenshot/bottom1.PNG) ![bottom2.PNG](./Screenshot/bottom2.PNG)
     ![bottom3.PNG](./Screenshot/bottom3.PNG)
+
+Bottom berisikan tabbar untuk BottomBar, jika salah satu BottomBar dipilih/ditekan maka muncul tabbar. Tabbar yang dibuat hanya tabbar chat, yang berisikan chat dari class ChatView.
 
 - ChatView : [chatview1.PNG](./Screenshot/chatview1.PNG) [chatview2.PNG](./Screenshot/chatview2.PNG)
 
     ![chatview1.PNG](./Screenshot/chatview1.PNG) ![chatview2.PNG](./Screenshot/chatview2.PNG)
 
+ChatView berisikan kumpulan chat yang menjadi satu, data chat didapat dari class ChatModel.
+
 - ChatModel : [chatmodel.PNG](./Screenshot/chatmodel.PNG)
 
     ![chatmodel.PNG](./Screenshot/chatmodel.PNG)
 
-- Main : [main1.PNG](./Screenshot/main1.PNG) [main2.PNG](./Screenshot/main2.PNG) [main3.PNG](./Screenshot/main3.PNG)
-
-    ![main1.PNG](./Screenshot/main1.PNG) ![main2.PNG](./Screenshot/main2.PNG) ![main3.PNG](./Screenshot/main3.PNG) 
+ChatModel berisikan data chat untuk diterapkan di ChatView. 
