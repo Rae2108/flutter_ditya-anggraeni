@@ -38,4 +38,4 @@ Pembuatan galery menggunakan widget Row, kemudian membuat container untuk menamp
 
 Output : 
 
-![output.PNG](./Screenshot/output.PNG)
+![output.PNG](./Screenshoot/output.PNG)
