@@ -27,12 +27,12 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ## TASK
 
-1. [main1.PNG](./Screenshot/main1.PNG) [main1_1.PNG](./Screenshot/main1_1.PNG) [main1_2.PNG](./Screenshot/main1_2.PNG)
-[image.PNG](./Screenshot/image.PNG)
+1. [main1.PNG](./Screenshoot/main1.PNG) [main1_1.PNG](./Screenshoot/main1_1.PNG) [main1_2.PNG](./Screenshoot/main1_2.PNG)
+[image.PNG](./Screenshoot/image.PNG)
 
-![main1.PNG](./Screenshot/main1.PNG) ![main1_1.PNG](./Screenshot/main1_1.PNG) ![main1_2.PNG](./Screenshot/main1_2.PNG)
+![main1.PNG](./Screenshoot/main1.PNG) ![main1_1.PNG](./Screenshoot/main1_1.PNG) ![main1_2.PNG](./Screenshoot/main1_2.PNG)
 
-![image.PNG](./Screenshot/image.PNG)
+![image.PNG](./Screenshoot/image.PNG)
 
 Pembuatan galery menggunakan widget Row, kemudian membuat container untuk menampung gambar dan memberikan jarak antara gambarnya. Untuk gambarnya agar dapat diklik, saya menggunakan Widget ElevatedButton supaya image/gambar yang ada dapat di klik lalu buat aksi showModalBottomSheet untuk menampilkan bottom sheet kemudian pada clas ImageClass untuk menampilkan gambar yang diklik pada BottomSheet.
 
