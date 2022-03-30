@@ -1,7 +1,8 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
+import 'package:open_file/open_file.dart';
+import 'package:intl/intl.dart';
+import 'package:flutter_colorpicker/flutter_colorpicker.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,26 +11,131 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Create Post',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: const MyHomePage(title: 'Create Post'),
+    );
+  }
+}
+
+class MyHomePage extends StatefulWidget {
+  const MyHomePage({Key? key, required this.title}) : super(key: key);
+
+  final String title;
+
+  @override
+  State<MyHomePage> createState() => _MyHomePageState();
+}
+
+class _MyHomePageState extends State<MyHomePage> {
+  DateTime _dueDate = DateTime.now();
+  final currentDate = DateTime.now();
+  Color _currentColor = Colors.brown;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Form Input'),
-        centerTitle: true,
+        title: Text(widget.title),
       ),
       body: Container(
         padding: const EdgeInsets.all(16),
         child: ListView(
           children: [
-            const Text('Pick Files'),
-            const SizedBox(height: 8),
-            Center(
-              child: ElevatedButton(
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                const Text('Pick Files'),
+                ElevatedButton(
                 child: const Text('Pick files'),
                 onPressed: (){
                   _pickFile();
                 },
+              ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                const Text('Tanggal Posting'),
+                TextButton(
+                  child: const Text('Select'),
+                  onPressed: () async{
+                    final selectDate = await showDatePicker(
+                      context: context,
+                      initialDate: currentDate,
+                      firstDate: DateTime(1990),
+                      lastDate: DateTime(currentDate.year + 5),
+                    );
+
+                    setState((){
+                      if(selectDate != null){
+                        _dueDate = selectDate;
+                      }
+                    });
+                  },
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            const Text('Pilih Warna'),
+            // Container(
+            //   height: 100,
+            //   width: double.infinity,
+            //   color: _currentColor,
+            // ),
+            const SizedBox(height: 8),
+            Center(
+              child: ElevatedButton(
+                style: ButtonStyle(
+                  backgroundColor: MaterialStateProperty.all(_currentColor),
+                ),
+                child: const Text('Pick Color'),
+                onPressed: (){
+                  showDialog(
+                    context: context, 
+                    builder: (context){
+                      return AlertDialog(
+                        title: const Text('Pick Color'),
+                        content: BlockPicker(
+                          pickerColor: _currentColor,
+                          onColorChanged: (color){
+                            setState(() {
+                              _currentColor = color;
+                            });
+                          },
+                        ),
+                      );
+                    }
+                  );
+                },
+              ),
+            ),
+            const Text('Caption :'),
+            const SizedBox(height: 8),
+            Column(
+              children: <Widget>[
+                Card(
+                  color: Colors.white,
+                  child: TextField(
+                    maxLines: 8,
+                    // decoration: InputDecoration.collapsed(hintText: 'Enter'),
+                  )
+                )
+              ],
+            ),
+            Center(
+              child: ElevatedButton(
+                child: const Text('Submit'),
+                onPressed: (){
+                  
+                },          
               ),
             ),
           ],
@@ -41,14 +147,12 @@ class MyApp extends StatelessWidget {
 
 void _pickFile() async{
   FilePickerResult? result = await FilePicker.platform.pickFiles();
-  if(result != null){
-  }else{}
+  if(result == null) return;
 
-  //
-  // final file = result.files.first;
-  // _openFile(file);
+  final file = result.files.first;
+  _openFile(file);
 }
 
-// void _openFile(PlatformFile file){
-//   OpenFile.open(file.path);
-// }
+void _openFile(PlatformFile file){
+  OpenFile.open(file.path as String);
+}
