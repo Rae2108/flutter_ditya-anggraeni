@@ -38,6 +38,8 @@ dependencies:
   open_file: ^3.2.1
   intl: ^0.17.0
   flutter_colorpicker: ^1.0.3
+  flutter_form_builder: ^7.1.1
+  date_field: ^3.0.0
 
 dev_dependencies:
   flutter_test:
