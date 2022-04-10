@@ -47,3 +47,40 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 ============================================================================================
 
 ## TASK
+
+- [dump1.PNG](./Screenshots/dump1.PNG) [dump2.PNG](./Screenshots/dump2.PNG) [dump3.PNG](./Screenshots/dump3.PNG) [dump4.PNG](./Screenshots/dump4.PNG) [dump5.PNG](./Screenshots/dump5.PNG)
+
+![dump1.PNG](./Screenshots/dump1.PNG) ![dump2.PNG](./Screenshots/dump2.PNG) ![dump3.PNG](./Screenshots/dump3.PNG) ![dump4.PNG](./Screenshots/dump4.PNG) ![dump5.PNG](./Screenshots/dump5.PNG)
+
+
+- [generated.PNG](./Screenshots/generated.PNG)
+
+![generated.PNG](./Screenshots/generated.PNG)
+
+- [generatedscreen.PNG](./Screenshots/generatedscreen.PNG)
+
+![generatedscreen.PNG](./Screenshots/generatedscreen.PNG)
+
+- [home1.PNG](./Screenshots/home1.PNG) [home2.PNG](./Screenshots/home2.PNG)  [home3.PNG](./Screenshots/home3.PNG)  [home4.PNG](./Screenshots/home4.PNG) [home5.PNG](./Screenshots/home5.PNG) [home6.PNG](./Screenshots/home6.PNG) [home7.PNG](./Screenshots/home7.PNG)
+
+![home1.PNG](./Screenshots/home1.PNG) ![home2.PNG](./Screenshots/home2.PNG)  ![home3.PNG](./Screenshots/home3.PNG)  ![home4.PNG](./Screenshots/home4.PNG) ![home5.PNG](./Screenshots/home5.PNG) ![home6.PNG](./Screenshots/home6.PNG) ![home7.PNG](./Screenshots/home7.PNG)
+
+- [main1.PNG](./Screenshots/main1.PNG) [main2.PNG](./Screenshots/main2.PNG)
+
+![main1.PNG](./Screenshots/main1.PNG) ![main2.PNG](./Screenshots/main2.PNG)
+
+- [maindump1.PNG](./Screenshots/main1dump.PNG) [maindump2.PNG](./Screenshots/maindump2.PNG) [maindump3.PNG](./Screenshots/maindump3.PNG) [maindump4.PNG](./Screenshots/maindump4.PNG)
+
+![maindump1.PNG](./Screenshots/main1dump.PNG) ![maindump2.PNG](./Screenshots/maindump2.PNG) ![maindump3.PNG](./Screenshots/maindump3.PNG) ![maindump4.PNG](./Screenshots/maindump4.PNG)
+
+- [mainscreen.PNG](./Screenshots/mainscreen.PNG)
+
+![mainscreen.PNG](./Screenshots/mainscreen.PNG)
+
+- [newpage.PNG](./Screenshots/newpage.PNG)
+
+![newpage.PNG](./Screenshots/newpage.PNG)
+
+- [priview1.PNG](./Screenshots/priview1.PNG) [priview2.PNG](./Screenshots/priview2.PNG)
+
+![priview1.PNG](./Screenshots/priview1.PNG) ![priview2.PNG](./Screenshots/priview2.PNG)
