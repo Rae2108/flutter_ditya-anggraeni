@@ -85,6 +85,8 @@ Berisikan kontak yang sudah diinput sebelumnya lalu ditambah dengan gabungan dar
 
 ![name_contact_item.png](./Screenshots/name_contact_item.png) ![name_contact_item2.png](./Screenshots/name_contact_item2.png) 
 
+Berisikan form atau halaman untuk menginput kontak. 
+
 - [new_contact_screen.png](./Screenshots/new_contact_screen.png) [new_contact_screen2.png](./Screenshots/new_contact_screen2.png) 
 
 ![new_contact_screen.png](./Screenshots/new_contact_screen.png) ![new_contact_screen2.png](./Screenshots/new_contact_screen2.png) 
@@ -92,7 +94,6 @@ Berisikan kontak yang sudah diinput sebelumnya lalu ditambah dengan gabungan dar
 - [State.png](./Screenshots/State.png) [State2.png](./Screenshots/State2.png)
 
 ![State.png](./Screenshots/State.png) ![State2.png](./Screenshots/State2.png)
-
 
 
 - [Output1.png](./Screenshots/Output1.png)
