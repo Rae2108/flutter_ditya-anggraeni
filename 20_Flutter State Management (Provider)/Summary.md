@@ -67,14 +67,14 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![route.PNG](./Screenshots/route.PNG)
 
-- [Output1.PNG](./Screenshots/Output1.PNG)
+- [Output1.png](./Screenshots/Output1.png)
 
-![Output1.PNG](./Screenshots/Output1.PNG)
+![Output1.png](./Screenshots/Output1.png)
 
-- [Output2.PNG](./Screenshots/Output2.PNG)
+- [Output2.png](./Screenshots/Output2.png)
 
-![Output2.PNG](./Screenshots/Output2.PNG)
+![Output2.png](./Screenshots/Output2.PpngNG)
 
-- [Output3.PNG](./Screenshots/Output3.PNG)
+- [Output3.png](./Screenshots/Output3.png)
 
-![Output3.PNG](./Screenshots/Output3.PNG)
+![Output3.png](./Screenshots/Output3.png)
