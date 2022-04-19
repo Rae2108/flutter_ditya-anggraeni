@@ -52,9 +52,12 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![home1.PNG](./Screenshots/home1.PNG) ![home2.PNG](./Screenshots/home2.PNG)  ![home3.PNG](./Screenshots/home3.PNG)  ![home4.PNG](./Screenshots/home4.PNG) ![home5.PNG](./Screenshots/home5.PNG) ![home6.PNG](./Screenshots/home6.PNG) ![home7.PNG](./Screenshots/home7.PNG)
 
-- [main1.PNG](./Screenshots/main1.PNG) [main2.PNG](./Screenshots/main2.PNG)
-
-![main1.PNG](./Screenshots/main1.PNG) ![main2.PNG](./Screenshots/main2.PNG)
+Pada file home.dart menggunakan library atau widget yaitu file_picker, date_field, dan flutter_colorpicker.
+Memiliki fungsi masing-masing yaitu : 
+    - File Picker, membuat inputan berupa file dengan memilih file yang ada pada device.
+    - Date Field, membuat inputan berupa tanggal dengan memilih tanggal.
+    - Color Picker, membuat inputan berupa memilih warna yang telah disediakan.
+Layout menggunakan Scaffold.
 
 - [mainscreen.PNG](./Screenshots/mainscreen.PNG)
 
@@ -64,10 +67,12 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![priview1.PNG](./Screenshots/priview1.PNG) ![priview2.PNG](./Screenshots/priview2.PNG)
 
-- [output1.PNG](./Screenshots/output1.PNG)
+Pada priview.dart menerima inputan yang ada di main.dart kemudian menerapkan atau menggnakannya pada tampilan, untuk file picker ditampilkan dalam bentuk gambar atau image.
 
-![output1.PNG](./Screenshots/output1.PNG)
+- [Output1.png](./Screenshots/Output1.png)
 
-- [output2.PNG](./Screenshots/output2.PNG)
+![Output1.png](./Screenshots/Output1.png)
 
-![output2.PNG](./Screenshots/output2.PNG)
+- [Output2.png](./Screenshots/Output2.png)
+
+![Output2.png](./Screenshots/Output2.png)
