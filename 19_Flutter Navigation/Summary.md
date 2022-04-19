@@ -24,26 +24,32 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![contacs_model.PNG](./Screenshots/contacs_model.PNG)
 
+Untuk memudahkan dalam pembuatan kontak, dibuat sebuah kontak list.
+
 - [form_class.PNG](./Screenshots/form_class.PNG) [form_class1.PNG](./Screenshots/form_class1.PNG)
 
 ![form_class.PNG](./Screenshots/form_class.PNG) ![form_class1.PNG](./Screenshots/form_class1.PNG)
+
+form_class dart berisikan template form untuk input data nama dan nomor telepon.
 
 - [home1.PNG](./Screenshots/home1.PNG) [home2.PNG](./Screenshots/home2.PNG) [home3.PNG](./Screenshots/home3.PNG) [home4.PNG](./Screenshots/home4.PNG)
 
 ![home1.PNG](./Screenshots/home1.PNG) ![home2.PNG](./Screenshots/home2.PNG) ![home3.PNG](./Screenshots/home3.PNG) ![home4.PNG](./Screenshots/home4.PNG)
 
+home.dart menggunakan layout dari scaffold dengan button tambah dengan 2 pilihan yaitu named dan nonamed perbedaannya hanya pada pemanggilan file form_classnya saja.
+
 - [main.PNG](./Screenshots/main.PNG)
 
 ![main.PNG](./Screenshots/main.PNG)
 
-- [Output1.PNG](./Screenshots/Output1.PNG)
+- [Output1.png](./Screenshots/Output1.png)
 
-![Output1.PNG](./Screenshots/Output1.PNG)
+![Output1.png](./Screenshots/Output1.png)
 
-- [Output2.PNG](./Screenshots/Output2.PNG)
+- [Output2.png](./Screenshots/Output2.png)
 
-![Output2.PNG](./Screenshots/Output2.PNG)
+![Output2.png](./Screenshots/Output2.png)
 
-- [Output3.PNG](./Screenshots/Output3.PNG)
+- [Output3.png](./Screenshots/Output3.png)
 
-![Output3.PNG](./Screenshots/Output3.PNG)
+![Output3.png](./Screenshots/Output3.png)
