@@ -33,33 +33,47 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![AppRoute.png](./Screenshots/AppRoute.png)
 
+Approute berfungsi untuk mengarahkan jalannya aplikasi.
+
 - [Bloc.png](./Screenshots/Bloc.png)
 
 ![Bloc.png](./Screenshots/Bloc.png)
+
+Bloc memisahkan AddContact dengan RemoveContact.
 
 - [contact_item.png](./Screenshots/contact_item.png) [contact_item2.png](./Screenshots/contact_item2.png)
 
 ![contact_item.png](./Screenshots/contact_item.png) ![contact_item2.png](./Screenshots/contact_item2.png)
 
+Contact item adalah form untuk menginput contact.
+
 - [EnterExit_AppRoute.png](./Screenshots/EnterExit_AppRoute.png)
 
 ![EnterExit_AppRoute.png](./Screenshots/EnterExit_AppRoute.png)
+
+Mengatur keluar masuknya aplikasi terhadap file atau tampilan atau halaman.
 
 - [Event.png](./Screenshots/Event.png) [Event2.png](./Screenshots/Event2.png)
 
 ![Event.png](./Screenshots/Event.png) ![Event2.png](./Screenshots/Event2.png)
 
+Event berisikan fungsi-fungsi yang dibutuhkan pada aplikasi untuk berkalan.
+
 - [Favorite.png](./Screenshots/Favorite.png)
 
 ![Favorite.png](./Screenshots/Favorite.png)
+
+Bloc favorite memisahkan AddFavContact dengan RemoveFavContact.
 
 - [Home.png](./Screenshots/Home.png) [Home2.png](./Screenshots/Home2.png)
 
 ![Home.png](./Screenshots/Home.png) ![Home2.png](./Screenshots/Home2.png)
 
-- [items.png](./Screenshots/items.png) [items2.png](./Screenshots/items2.png) [items3.png](./Screenshots/items3.png)
+Menampilkan halaman utama aplikasi.
 
-![items.png](./Screenshots/items.png) ![items2.png](./Screenshots/items2.png) ![items3.png](./Screenshots/items3.png)
+- [Items.png](./Screenshots/Items.png) [Items2.png](./Screenshots/Items2.png) [Items3.png](./Screenshots/Items3.png)
+
+![Items.png](./Screenshots/Items.png) ![Items2.png](./Screenshots/Items2.png) ![Items3.png](./Screenshots/Items3.png)
 
 - [Maindart.png](./Screenshots/Maindart.png)
 
