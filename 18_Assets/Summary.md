@@ -30,9 +30,13 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![asset_list.PNG](./Screenshots/asset_list.PNG)
 
-- [generated.PNG](./Screenshots/generated.PNG)
+Membuat aseets yang dibutuhkan, aseets yang dibutuhkan adalah 3 gambar. Untuk mempermudah dibuatlah assets list.
 
-![generated.PNG](./Screenshots/generated.PNG)
+- [genereted.PNG](./Screenshots/genereted.PNG)
+
+![genereted.PNG](./Screenshots/genereted.PNG)
+
+
 
 - [home1.PNG](./Screenshots/home1.PNG) [home2.PNG](./Screenshots/home2.PNG)
 
@@ -46,10 +50,10 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![main.PNG](./Screenshots/main.PNG)
 
-- [Output1.PNG](./Screenshots/Output1.PNG)
+- [Output1.png](./Screenshots/Output1.png)
 
-![Output1.PNG](./Screenshots/Output1.PNG)
+![Output1.png](./Screenshots/Output1.png)
 
-- [Output2.PNG](./Screenshots/Output2.PNG)
+- [Output2.png](./Screenshots/Output2.png)
 
-![Output2.PNG](./Screenshots/Output2.PNG)
+![Output2.png](./Screenshots/Output2.png)
