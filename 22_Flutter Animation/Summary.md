@@ -20,9 +20,13 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ## TASK
 
+Halaman sebelumnya sama seperti tugas sebelumnya ditambahkan dengan animasi untuk gambar.
+
 - [anim_page.png](./Screenshots/anim_page.png) [anim_page2.png](./Screenshots/anim_page2.png)
 
 ![anim_page.png](./Screenshots/anim_page.png) ![anim_page2.png](./Screenshots/anim_page2.png)
+
+Tampilan halaman dengan image ditengah, jika ditekan atau diklik akan muncul animasi untuk berpindah ke image atau gambar sebelumnya. Menggunakan animasi besar > kecil, kecil > besar.
 
 - [Output1.png](./Screenshots/Output1.png) 
 
