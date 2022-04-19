@@ -39,17 +39,25 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![conmen.PNG](./Screenshots/conmen.PNG)
 
+Contact manager berfungsi untuk menambahkan kontak yang diinput.
+
 - [contact.PNG](./Screenshots/contact.PNG)
 
 ![contact.PNG](./Screenshots/contact.PNG)
+
+Contact berfungsi untuk menyimpan kontak yang sudah diinput sebelumnya.
 
 - [home1.PNG](./Screenshots/home1.PNG) [home2.PNG](./Screenshots/home2.PNG)
 
 ![home1.PNG](./Screenshots/home1.PNG) ![home2.PNG](./Screenshots/home2.PNG)
 
+Home.dart berfungsi untuk menampilkan data inputan yang ada di contact, Jika kosong maka menampilkan "Tidak ada data"
+
 - [items.PNG](./Screenshots/items.PNG)
 
 ![items.PNG](./Screenshots/items.PNG)
+
+items berfungsi untuk membuat gambar lingkarang dari inisial nama disetiap kontak yang diinput.
 
 - [namecon1.PNG](./Screenshots/namecon1.PNG) [namecon2.PNG](./Screenshots/namecon2.PNG)
 
@@ -73,7 +81,7 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 - [Output2.png](./Screenshots/Output2.png)
 
-![Output2.png](./Screenshots/Output2.PpngNG)
+![Output2.png](./Screenshots/Output2.png)
 
 - [Output3.png](./Screenshots/Output3.png)
 
