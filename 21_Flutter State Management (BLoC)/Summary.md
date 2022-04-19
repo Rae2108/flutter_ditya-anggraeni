@@ -75,6 +75,8 @@ Menampilkan halaman utama aplikasi.
 
 ![Items.png](./Screenshots/Items.png) ![Items2.png](./Screenshots/Items2.png) ![Items3.png](./Screenshots/Items3.png)
 
+Berisikan kontak yang sudah diinput sebelumnya lalu ditambah dengan gabungan dari semua fungsi yang ada seperti tambah favorite.
+
 - [Maindart.png](./Screenshots/Maindart.png)
 
 ![Maindart.png](./Screenshots/Maindart.png)
