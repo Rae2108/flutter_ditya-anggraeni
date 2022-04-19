@@ -1,0 +1,1 @@
+Input dan output sisanya sama kaya section 21, tetapi gaush dimasukin karena section 22 ini cman buat animasi sederhana.

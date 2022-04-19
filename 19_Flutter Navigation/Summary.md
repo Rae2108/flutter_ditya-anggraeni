@@ -19,3 +19,31 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 ============================================================================================
 
 ## TASK
+
+- [contacs_model.PNG](./Screenshots/contacs_model.PNG)
+
+![contacs_model.PNG](./Screenshots/contacs_model.PNG)
+
+- [form_class.PNG](./Screenshots/form_class.PNG) [form_class1.PNG](./Screenshots/form_class1.PNG)
+
+![form_class.PNG](./Screenshots/form_class.PNG) ![form_class1.PNG](./Screenshots/form_class1.PNG)
+
+- [home1.PNG](./Screenshots/home1.PNG) [home2.PNG](./Screenshots/home2.PNG) [home3.PNG](./Screenshots/home3.PNG) [home4.PNG](./Screenshots/home4.PNG)
+
+![home1.PNG](./Screenshots/home1.PNG) ![home2.PNG](./Screenshots/home2.PNG) ![home3.PNG](./Screenshots/home3.PNG) ![home4.PNG](./Screenshots/home4.PNG)
+
+- [main.PNG](./Screenshots/main.PNG)
+
+![main.PNG](./Screenshots/main.PNG)
+
+- [Output1.PNG](./Screenshots/Output1.PNG)
+
+![Output1.PNG](./Screenshots/Output1.PNG)
+
+- [Output2.PNG](./Screenshots/Output2.PNG)
+
+![Output2.PNG](./Screenshots/Output2.PNG)
+
+- [Output3.PNG](./Screenshots/Output3.PNG)
+
+![Output3.PNG](./Screenshots/Output3.PNG)

@@ -25,3 +25,31 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 ============================================================================================
 
 ## TASK
+
+- [asset_list.PNG](./Screenshots/asset_list.PNG)
+
+![asset_list.PNG](./Screenshots/asset_list.PNG)
+
+- [generated.PNG](./Screenshots/generated.PNG)
+
+![generated.PNG](./Screenshots/generated.PNG)
+
+- [home1.PNG](./Screenshots/home1.PNG) [home2.PNG](./Screenshots/home2.PNG)
+
+![home1.PNG](./Screenshots/home1.PNG) ![home2.PNG](./Screenshots/home2.PNG)
+
+- [show_image.PNG](./Screenshots/show_image.PNG)
+
+![show_image.PNG](./Screenshots/show_image.PNG)
+
+- [main.PNG](./Screenshots/main.PNG)
+
+![main.PNG](./Screenshots/main.PNG)
+
+- [Output1.PNG](./Screenshots/Output1.PNG)
+
+![Output1.PNG](./Screenshots/Output1.PNG)
+
+- [Output2.PNG](./Screenshots/Output2.PNG)
+
+![Output2.PNG](./Screenshots/Output2.PNG)

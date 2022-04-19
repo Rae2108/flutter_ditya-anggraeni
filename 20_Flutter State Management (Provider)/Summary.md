@@ -34,3 +34,47 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 ============================================================================================
 
 ## TASK
+
+- [conmen.PNG](./Screenshots/conmen.PNG)
+
+![conmen.PNG](./Screenshots/conmen.PNG)
+
+- [contact.PNG](./Screenshots/contact.PNG)
+
+![contact.PNG](./Screenshots/contact.PNG)
+
+- [home1.PNG](./Screenshots/home1.PNG) [home2.PNG](./Screenshots/home2.PNG)
+
+![home1.PNG](./Screenshots/home1.PNG) ![home2.PNG](./Screenshots/home2.PNG)
+
+- [items.PNG](./Screenshots/items.PNG)
+
+![items.PNG](./Screenshots/items.PNG)
+
+- [namecon1.PNG](./Screenshots/namecon1.PNG) [namecon2.PNG](./Screenshots/namecon2.PNG)
+
+![namecon1.PNG](./Screenshots/namecon1.PNG) ![namecon2.PNG](./Screenshots/namecon2.PNG)
+
+- [newcon1.PNG](./Screenshots/newcon1.PNG) [newcon2.PNG](./Screenshots/newcon2.PNG)
+
+![newcon1.PNG](./Screenshots/newcon1.PNG) ![newcon2.PNG](./Screenshots/newcon2.PNG)
+
+- [notlp1.PNG](./Screenshots/notlp1.PNG) [notlp2.PNG](./Screenshots/notlp2.PNG)
+
+![notlp1.PNG](./Screenshots/notlp1.PNG) ![notlp2.PNG](./Screenshots/notlp2.PNG)
+
+- [route.PNG](./Screenshots/route.PNG)
+
+![route.PNG](./Screenshots/route.PNG)
+
+- [Output1.PNG](./Screenshots/Output1.PNG)
+
+![Output1.PNG](./Screenshots/Output1.PNG)
+
+- [Output2.PNG](./Screenshots/Output2.PNG)
+
+![Output2.PNG](./Screenshots/Output2.PNG)
+
+- [Output3.PNG](./Screenshots/Output3.PNG)
+
+![Output3.PNG](./Screenshots/Output3.PNG)
