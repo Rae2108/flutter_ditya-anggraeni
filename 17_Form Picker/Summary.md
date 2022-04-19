@@ -64,10 +64,10 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![priview1.PNG](./Screenshots/priview1.PNG) ![priview2.PNG](./Screenshots/priview2.PNG)
 
-- [Output1.PNG](./Screenshots/Output1.PNG)
+- [output1.PNG](./Screenshots/output1.PNG)
 
-![Output1.PNG](./Screenshots/Output1.PNG)
+![output1.PNG](./Screenshots/output1.PNG)
 
-- [Output2.PNG](./Screenshots/Output2.PNG)
+- [output2.PNG](./Screenshots/output2.PNG)
 
-![Output2.PNG](./Screenshots/Output2.PNG)
+![output2.PNG](./Screenshots/output2.PNG)
