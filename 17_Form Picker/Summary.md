@@ -55,11 +55,11 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 Pada file home.dart menggunakan library atau widget yaitu file_picker, date_field, dan flutter_colorpicker.
 Memiliki fungsi masing-masing yaitu : 
     
-    - File Picker, membuat inputan berupa file dengan memilih file yang ada pada device.
+- File Picker, membuat inputan berupa file dengan memilih file yang ada pada device.
     
-    - Date Field, membuat inputan berupa tanggal dengan memilih tanggal.
+- Date Field, membuat inputan berupa tanggal dengan memilih tanggal.
    
-    - Color Picker, membuat inputan berupa memilih warna yang telah disediakan.
+- Color Picker, membuat inputan berupa memilih warna yang telah disediakan.
 Layout menggunakan Scaffold.
 
 - [mainscreen.PNG](./Screenshots/mainscreen.PNG)
