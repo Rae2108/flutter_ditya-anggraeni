@@ -25,8 +25,12 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 ![bloc2.PNG](./Screenshots/bloc2.PNG) ![bloc2_1.PNG](./Screenshots/bloc2_1.PNG)
 
+Potongan program diatas adalah storage yang menggunakan Bloc.
+
 - [conmanager1.PNG](./Screenshots/conmanager1.PNG)
 ![conmanager1.PNG](./Screenshots/conmanager1.PNG)
+
+Sedangkan potongan program diatas adalah storage yang menggunakan sharedpreferences
 
 - [conmanager2.PNG](./Screenshots/conmanager2.PNG)
 ![conmanager2.PNG](./Screenshots/conmanager2.PNG)
@@ -34,11 +38,17 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 - [conmanagerstate2.PNG](./Screenshots/conmanagerstate2.PNG)
 ![conmanagerstate2.PNG](./Screenshots/conmanagerstate2.PNG)
 
+Potongan program diatas adalah kontak manager untuk bloc
+
 - [conmodel1.PNG](./Screenshots/conmodel1.PNG)
 ![conmodel1.PNG](./Screenshots/conmodel1.PNG)
 
+Potongan program diatas adalah model untuk sharedpreferences.
+
 - [conmodel2.PNG](./Screenshots/conmodel2.PNG)
 ![conmodel2.PNG](./Screenshots/conmodel2.PNG)
+
+Sedangkan potongan program diatas adalah model untuk bloc
 
 - [conscreen1.PNG](./Screenshots/conscreen1.PNG) [conscreen1_1.PNG](./Screenshots/conscreen1_1.PNG) [conscreen1_2.PNG](./Screenshots/conscreen1_2.PNG)
 ![conscreen1.PNG](./Screenshots/conscreen1.PNG) ![conscreen1_1.PNG](./Screenshots/conscreen1_1.PNG) ![conscreen1_2.PNG](./Screenshots/conscreen1_2.PNG)
@@ -60,3 +70,5 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 
 ## OUTPUT
+- [output.png](./Screenshots/output.png)
+![output.png](./Screenshots/output.png)

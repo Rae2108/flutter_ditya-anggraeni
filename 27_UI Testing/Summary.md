@@ -9,3 +9,13 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 ## Tuliskan 3 poin yang dipelajari dari materi tersebut. Resume / ringkasan materi dapat disubmit melalui Github
 
 ### Jawab : 
+
+
+
+
+============================================================================================
+
+## TASK
+
+- [task1.PNG](./Screenshots/task1.PNG)
+![task1.PNG](./Screenshots/task1.PNG)

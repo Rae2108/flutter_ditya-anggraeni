@@ -30,14 +30,20 @@ Keuntungan MVVM :
 - [conapi.PNG](./Screenshots/conapi.PNG)
 ![conapi.PNG](./Screenshots/conapi.PNG)
 
+Kode yang digunakan untuk pengambilan data dari API.
+
 - [conmodel.PNG](./Screenshots/conmodel.PNG)
 ![conmodel.PNG](./Screenshots/conmodel.PNG)
+
+Kode yang digunakan untuk membuat sebuah model untuk kontak.
 
 - [conscreen1.PNG](./Screenshots/conscreen1.PNG) [conscreen1_1.PNG](./Screenshots/conscreen1_1.PNG) [conscreen1_2.PNG](./Screenshots/conscreen1_2.PNG)
 ![conscreen1.PNG](./Screenshots/conscreen1.PNG) ![conscreen1_1.PNG](./Screenshots/conscreen1_1.PNG) ![conscreen1_2.PNG](./Screenshots/conscreen1_2.PNG)
 
 - [conview.PNG](./Screenshots/conview.PNG)
 ![conview.PNG](./Screenshots/conview.PNG)
+
+Kode yang digunakan untuk menampilkan semua yang ada di model.
 
 - [createcon2.PNG](./Screenshots/createcon2.PNG) [createcon2_1.PNG](./Screenshots/createcon2_1.PNG) [createcon2.PNG](./Screenshots/createcon2_2.PNG)
 ![createcon2.PNG](./Screenshots/createcon2.PNG) [createcon2_1.PNG](./Screenshots/createcon2_1.PNG) [createcon2.PNG](./Screenshots/createcon2_2.PNG)
@@ -53,3 +59,5 @@ Keuntungan MVVM :
 
 - [widgettest.PNG](./Screenshots/widgettest.PNG)
 ![widgettest.PNG](./Screenshots/widgettest.PNG)
+
+Dengan menggunakan MVVM arsitektur perintah logic dapat digunakan kembali sehingga tidak ada terjadinya pemborosan kode dan kode double.

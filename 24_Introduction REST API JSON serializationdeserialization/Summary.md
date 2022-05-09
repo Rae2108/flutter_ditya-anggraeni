@@ -28,6 +28,10 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 - [outputtask1.PNG](./Screenshots/outputtask1.PNG)
 ![outputtask1.PNG](./Screenshots/outputtask1.PNG)
 
+Pada task 1 belajar membuat sebuah post kepada api dari website lain, dengan menggunakan library dio dapat memanggil api. Task 1 membuat post dengan data yang dikirin (Post) yaitu 'name' dan 'phone' yang setelah dikirim (post) akan dikembalikan dalam bentuk object (json).
+
+## TASK
+
 - [task2.PNG](./Screenshots/task2.PNG)
 ![task2.PNG](./Screenshots/task2.PNG)
 
@@ -35,3 +39,5 @@ Repo : https://github.com/Rae2108/flutter_ditya-anggraeni
 
 - [outputtask2.PNG](./Screenshots/outputtask2.PNG)
 ![outputtask2.PNG](./Screenshots/outputtask2.PNG)
+
+Task 2 juga merequest kepada api dengan data yang dikirim adalah 'name' dan 'phone' dan dikembalikan dalam bentuk object (json)
