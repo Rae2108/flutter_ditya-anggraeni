@@ -61,3 +61,10 @@ Kode yang digunakan untuk menampilkan semua yang ada di model.
 ![widgettest.PNG](./Screenshots/widgettest.PNG)
 
 Dengan menggunakan MVVM arsitektur perintah logic dapat digunakan kembali sehingga tidak ada terjadinya pemborosan kode dan kode double.
+
+
+## OUTPUT 
+
+- [output1.png](./Screenshots/output1.png)
+
+![output1.png](./Screenshots/output1.png)

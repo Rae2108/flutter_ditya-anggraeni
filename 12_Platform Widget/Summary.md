@@ -52,6 +52,11 @@ Telegram : [telegram1.PNG](./Screenshot/telegram1.PNG) [telegram2.PNG](./Screens
 
 Didalam class Telegram membuat inti bodynya yaitu beberapa chat dari chart model. Jadi semua data yang ada di chartmodel diterapkan di class Telegram
 
+## OUTPUT 
+
+- [output1.PNG](./Screenshot/output1.PNG) [output1_1.png](./Screenshot/output1_1.png) 
+![output1.PNG](./Screenshot/output1.PNG) ![output1_1.png](./Screenshot/output1_1.png) 
+
 
 # Taks 2 : 
 
@@ -79,3 +84,9 @@ ChatView berisikan kumpulan chat yang menjadi satu, data chat didapat dari class
     ![chatmodel.PNG](./Screenshot/chatmodel.PNG)
 
 ChatModel berisikan data chat untuk diterapkan di ChatView. 
+
+## OUTPUT 
+
+- [output2.png](./Screenshot/output2.png) [output2_1.png](./Screenshot/output2_1.png) 
+
+![output2.png](./Screenshot/output2.png) ![output2_1.png](./Screenshot/output2_1.png) 
