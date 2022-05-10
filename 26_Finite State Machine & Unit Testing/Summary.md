@@ -34,5 +34,23 @@ Tujuan dari Unit Test :
 
 ## TASK
 
-- [task1.PNG](./Screenshots/task1.PNG)
-![task1.PNG](./Screenshots/task1.PNG)
+- [menuapi.PNG](./Screenshots/menuapi.PNG)
+![menuapi.PNG](./Screenshots/menuapi.PNG)
+
+- [menumodel.PNG](./Screenshots/menumodel.PNG)
+![menumodel.PNG](./Screenshots/menumodel.PNG)
+
+- [menuscreen1.PNG](./Screenshots/menuscreen1.PNG) [menuscreen2.PNG](./Screenshots/menuscreen2.PNG) [menuscreen3.PNG](./Screenshots/menuscreen3.PNG)
+![menuscreen1.PNG](./Screenshots/menuscreen1.PNG) ![menuscreen2.PNG](./Screenshots/menuscreen2.PNG) ![menuscreen3.PNG](./Screenshots/menuscreen3.PNG)
+
+- [menuview.PNG](./Screenshots/menuview.PNG)
+![menuview.PNG](./Screenshots/menuview.PNG)
+
+- [main.PNG](./Screenshots/main.PNG)
+![main.PNG](./Screenshots/main.PNG)
+
+- [apitest.PNG](./Screenshots/apitest.PNG)
+![apitest.PNG](./Screenshots/apitest.PNG)
+
+- [apitest2.PNG](./Screenshots/apitest2.PNG)
+![apitest2.PNG](./Screenshots/apitest2.PNG)

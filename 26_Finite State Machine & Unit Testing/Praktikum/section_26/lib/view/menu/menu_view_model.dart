@@ -28,7 +28,7 @@ class MenuViewModel extends ChangeNotifier {
     changeState(MenuViewState.loading);
 
     try {
-      final m = await MenuApi.getMenus();
+      final m = await MenuApi().getMenus();
       _menus = m;
       notifyListeners();
       changeState(MenuViewState.none);
